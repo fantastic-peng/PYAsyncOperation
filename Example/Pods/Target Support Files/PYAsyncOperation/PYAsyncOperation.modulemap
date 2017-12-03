@@ -1,0 +1,6 @@
+framework module PYAsyncOperation {
+  umbrella header "PYAsyncOperation-umbrella.h"
+
+  export *
+  module * { export * }
+}

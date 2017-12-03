@@ -1,0 +1,23 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - PYAsyncOperation (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - PYAsyncOperation (from `../`)
+
+EXTERNAL SOURCES:
+  PYAsyncOperation:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  PYAsyncOperation: 514510440c83a661a344a18c0f340e533fff2d2d
+
+PODFILE CHECKSUM: 8eec8ae94d884d5cd72b8edfe19d6e949c1f8390
+
+COCOAPODS: 1.4.0.beta.2
