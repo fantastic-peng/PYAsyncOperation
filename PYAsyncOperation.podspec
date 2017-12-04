@@ -3,9 +3,6 @@ Pod::Spec.new do |s|
   s.name             = 'PYAsyncOperation'
   s.version          = '0.1.1'
   s.summary          = 'PYAsyncOperation.'
-  s.description      = <<-DESC
-
-A short description of PYAsyncOperation.
   s.homepage         = 'https://github.com/fantastic-peng/PYAsyncOperation'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
